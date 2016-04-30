@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./delinguaeraninae00fixs_0046.png"; bbox 0 0 2495 3806; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 270 303 429 366">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 270 303 429 366">
+     <span class='ocr_line' id='line_1_1' title="bbox 270 303 429 366; baseline -0.013 -13"><span class='ocrx_word' id='word_1_1' title='bbox 270 303 429 366; x_wconf 78' lang='lat' dir='ltr'>Fig.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 377 412 429 477">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 377 412 429 477">
+     <span class='ocr_line' id='line_1_2' title="bbox 377 412 429 477; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 377 412 429 477; x_wconf 78' lang='lat' dir='ltr'>a)</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 268 1143 466 1208">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 268 1143 466 1208">
+     <span class='ocr_line' id='line_1_3' title="bbox 268 1143 466 1208; baseline 0 -17"><span class='ocrx_word' id='word_1_3' title='bbox 268 1149 315 1192; x_wconf 83' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_4' title='bbox 355 1143 466 1208; x_wconf 76' lang='lat' dir='ltr'><strong>Fig.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
